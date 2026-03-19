@@ -31,26 +31,61 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h3>Step 1: Creating a ticket </h3>
+
+So for this you'll need both the admin/agent page for osTicket as well as the end users page.
+
+- http://localhost/osTicket/scp/login.php
+- http://localhost/osTicket
+
+Now we'll be clicking open a new ticket and type out something like...
+
+- Karen(@)osticket.com
+- Karen Karen
+- Business Critical Outage
+- Entire Mobile Banking system is down
+- Customers are reporting that they are getting a 404 error when browsing to online banking.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
+
+<h3>Step 2: Assignment and Communication</h3>
+
+- Sign in to osTicket as an agent.
+  - We created Jane Doe in the previous tutorial so we'll log in with those credentials.
+  - Now select the ticket we created in step 1
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<br />
+
+- We'll set the Priority to Emergency as mobile online banking being down can lead to losses in revenue for the company and others that use it.
+  - Assign it to Jane Doe.
+  - Set the SLA plan to SEV-A as this is a business impacting incident.
+  - Department to System Administrators as they are responsible for mobile banking infrastructure.
+- in the post reply below us we'll just write something like.
+- "Coordinating with System Admin Team to bring mobile banking back online immediately."
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+<br />
+
+<h3>Step 2: Resolution</h3>
+
+- Once the issue is resolved head back to the ticket and update the end user.
+  - Send another reply, something like.
+  - "Kent from System Engineering found and connected a failed load balancer. Mobile Banking should now be back and running properly."
+- And now that the 'issue' has been resolved, the ticket should now be on the closed tab.
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 <br />
