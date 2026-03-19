@@ -77,7 +77,7 @@ Now we'll be clicking open a new ticket and type out something like...
 <p>
 <br />
 
-<h3>Step 2: Resolution</h3>
+<h3>Step 3: Resolution</h3>
 
 - Once the issue is resolved head back to the ticket and update the end user.
   - Send another reply, something like.
