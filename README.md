@@ -31,6 +31,16 @@ So for this you'll need both the admin/agent page for osTicket as well as the en
 - http://localhost/osTicket/scp/login.php
 - http://localhost/osTicket
 
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+
 Now we'll be clicking open a new ticket and type out something like...
 
 - Karen(@)osticket.com
@@ -39,33 +49,30 @@ Now we'll be clicking open a new ticket and type out something like...
 - Entire Mobile Banking system is down
 - Customers are reporting that they are getting a 404 error when browsing to online banking.
 
-<p>
-<img src="https://i.imgur.com/yXYTlR6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<br />
-<p>
-<img src="https://i.imgur.com/yNjg68k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<br />
 
-<h3>Step 2: Assignment and Communication</h3>
+<h3>Step 2: Assignment and Communication part 1</h3>
 
 - Sign in to osTicket as an agent.
   - We created Jane Doe in the previous tutorial so we'll log in with those credentials.
   - Now select the ticket we created in step 1
 
 <p>
-<img src="https://i.imgur.com/tw4TCF3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<br />
 <p>
-<img src="https://i.imgur.com/fvgXu68.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<h3>Step 3: Assignment and Communication part 2</h3>
 
 - We'll set the Priority to Emergency as mobile online banking being down can lead to losses in revenue for the company and others that use it.
   - Assign it to Jane Doe.
@@ -75,53 +82,20 @@ Now we'll be clicking open a new ticket and type out something like...
 - "Coordinating with System Admin Team to bring mobile banking back online immediately."
 
 <p>
-<img src="https://i.imgur.com/489X32L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<br />
 <p>
-<img src="https://i.imgur.com/1TeV65w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<br />
 <p>
-<img src="https://i.imgur.com/l57Ww0R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<br />
-<p>
-<img src="https://i.imgur.com/P6LQfYO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<br />
-<p>
-<img src="https://i.imgur.com/TUxmej9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<br />
-<p>
-<img src="https://i.imgur.com/vxSVM3F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<br />
-<p>
-<img src="https://i.imgur.com/dlZg0Q8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<br />
-<p>
-<img src="https://i.imgur.com/979R9ft.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<br />
-<p>
-<img src="https://i.imgur.com/ApTpyxB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<br />
 
 
-<h3>Step 3: Resolution</h3>
+<h3>Step 4: Resolution</h3>
 
 - Once the issue is resolved head back to the ticket and update the end user.
   - Send another reply, something like.
@@ -129,27 +103,14 @@ Now we'll be clicking open a new ticket and type out something like...
 - And now that the 'issue' has been resolved, the ticket should now be on the closed tab.
 
 <p>
-<img src="https://i.imgur.com/hKdPphW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<br />
 <p>
-<img src="https://i.imgur.com/2qcXQPo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<br />
 <p>
-<img src="https://i.imgur.com/wQTzVvC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<br />
-<p>
-<img src="https://i.imgur.com/7BFsN39.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<br />
-<p>
-<img src="https://i.imgur.com/jbicQuh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<br />
