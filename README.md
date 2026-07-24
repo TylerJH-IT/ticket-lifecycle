@@ -24,7 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<h3>Step 1: Creating a ticket </h3>
+<h3>Step 1: Opening our resources </h3>
 
 So for this you'll need both the admin/agent page for osTicket as well as the end users page.
 
@@ -41,6 +41,8 @@ So for this you'll need both the admin/agent page for osTicket as well as the en
 <p>
 <p>
 
+<h3> Step 2 Creating a ticket</h3>
+
 Now we'll be clicking open a new ticket and type out something like...
 
 - Karen(@)osticket.com
@@ -49,11 +51,18 @@ Now we'll be clicking open a new ticket and type out something like...
 - Entire Mobile Banking system is down
 - Customers are reporting that they are getting a 404 error when browsing to online banking.
 
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
 
-<h3>Step 2: Assignment and Communication part 1</h3>
+<h3>Step 3: Accessing the ticket</h3>
 
 - Sign in to osTicket as an agent.
   - We created Jane Doe in the previous tutorial so we'll log in with those credentials.
@@ -67,19 +76,10 @@ Now we'll be clicking open a new ticket and type out something like...
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
-<h3>Step 3: Assignment and Communication part 2</h3>
+<h3>Step 4: Assignment and Communication part 1</h3>
 
 - We'll set the Priority to Emergency as mobile online banking being down can lead to losses in revenue for the company and others that use it.
-  - Assign it to Jane Doe.
-  - Set the SLA plan to SEV-A as this is a business impacting incident.
-  - Department to System Administrators as they are responsible for mobile banking infrastructure.
-- in the post reply below us we'll just write something like.
-- "Coordinating with System Admin Team to bring mobile banking back online immediately."
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
@@ -89,19 +89,86 @@ Now we'll be clicking open a new ticket and type out something like...
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+<h3>Step 5: Assignment and Communication part 2 </h3>
+
+- We'll now be setting the SLA plan to SEV-A as this is a business impacting incident.
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
+<h3> Step 6: Assignment and Communication part 3</h3>
 
-<h3>Step 4: Resolution</h3>
+- Now we'll be assigning this ticket to Jane Doe as that's who's account we're using to reply to this ticket.
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<h3> Step 7: Assignment and Communication part 4</h3>
+
+- Next we'll be assigning the System Administrators Department to this ticket as they are responsible for mobile banking infrastructure.
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<h3> Step 8: Assignment and Communication part 5</h3>
+
+- Finally we'll be sending a reply to this ticket saying "Coordinating with System Admin Team to bring mobile banking back online immediately."
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<h3>Step 9: Resolution</h3>
 
 - Once the issue is resolved head back to the ticket and update the end user.
   - Send another reply, something like.
   - "Kent from System Engineering found and connected a failed load balancer. Mobile Banking should now be back and running properly."
-- And now that the 'issue' has been resolved, the ticket should now be on the closed tab.
+- And now that the 'issue' has been resolved, the ticket should now be put on the closed tab.
 
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<h3> Step 10: Removing the VM</h3>
+Now that we're done using this VM we'll be deleting it and our Resource Group, as keeping them around when not needed will take from our funds.
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
