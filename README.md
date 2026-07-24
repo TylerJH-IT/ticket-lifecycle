@@ -32,11 +32,11 @@ So for this you'll need both the admin/agent page for osTicket as well as the en
 - http://localhost/osTicket
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/D4dVsQB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GBF5d3F.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
@@ -52,12 +52,12 @@ Now we'll be clicking open a new ticket and type out something like...
 - Customers are reporting that they are getting a 404 error when browsing to online banking.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uDv6pK6.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/twOHrlJ.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
@@ -69,11 +69,11 @@ Now we'll be clicking open a new ticket and type out something like...
   - Now select the ticket we created in step 2
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HRARRib.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z0Vrz5o.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -82,11 +82,11 @@ Now we'll be clicking open a new ticket and type out something like...
 - We'll set the Priority to Emergency as mobile online banking being down can lead to losses in revenue for the company and others that use it.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xqSLOsz.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T2N6b3K.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -95,11 +95,11 @@ Now we'll be clicking open a new ticket and type out something like...
 - We'll now be setting the SLA plan to SEV-A as this is a business impacting incident.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VLUNeUt.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uydT1p3.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -108,11 +108,11 @@ Now we'll be clicking open a new ticket and type out something like...
 - Now we'll be assigning this ticket to Jane Doe as that's who's account we're using to reply to this ticket.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IvNas1o.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sC4s0PR.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -121,11 +121,11 @@ Now we'll be clicking open a new ticket and type out something like...
 - Next we'll be assigning the System Administrators Department to this ticket as they are responsible for mobile banking infrastructure.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TUaRqOj.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KgRB4GC.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -134,50 +134,56 @@ Now we'll be clicking open a new ticket and type out something like...
 - Finally we'll be sending a reply to this ticket saying "Coordinating with System Admin Team to bring mobile banking back online immediately."
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RcrcSes.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 <h3>Step 9: Resolution</h3>
 
-- Once the issue is resolved head back to the ticket and update the end user.
+- Once the 'issue' is resolved head back to the ticket and update the end user.
   - Send another reply, something like.
   - "Kent from System Engineering found and connected a failed load balancer. Mobile Banking should now be back and running properly."
 - And now that the 'issue' has been resolved, the ticket should now be put on the closed tab.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mBWz7lG.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RanXm8M.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AhUShHW.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 <h3> Step 10: Removing the VM</h3>
 Now that we're done using this VM we'll be deleting it and our Resource Group, as keeping them around when not needed will take from our funds.
 
+You'll need to open the Resource Group in order to delete it unlike VM's where you can just select them then click delete.
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yaAWAdU.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pNK9HDs.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OaBAesE.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NcHzYFK.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l2Mm4Iy.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/cdP8YWA.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
