@@ -66,7 +66,7 @@ Now we'll be clicking open a new ticket and type out something like...
 
 - Sign in to osTicket as an agent.
   - We created Jane Doe in the previous tutorial so we'll log in with those credentials.
-  - Now select the ticket we created in step 1
+  - Now select the ticket we created in step 2
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
